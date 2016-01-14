@@ -1,0 +1,12 @@
+/boot	emmc	/dev/block/platform/mtk-msdc.0/by-name/boot
+/logo	emmc	/dev/block/platform/mtk-msdc.0/by-name/logo
+/protect_f	ext4	/dev/block/platform/mtk-msdc.0/by-name/protect1
+/protect_s	ext4	/dev/block/platform/mtk-msdc.0/by-name/protect2
+/nvram	emmc	/dev/block/platform/mtk-msdc.0/by-name/nvram
+/misc	emmc	/dev/block/platform/mtk-msdc.0/by-name/para
+/recovery	emmc	/dev/block/platform/mtk-msdc.0/by-name/recovery
+/lk	emmc	/dev/block/platform/mtk-msdc.0/by-name/lk
+#/preload	ext4	/dev/block/platform/mtk-msdc.0/by-name/preload
+/system	ext4	/dev/block/platform/mtk-msdc.0/by-name/system
+/cache	ext4	/dev/block/platform/mtk-msdc.0/by-name/cache
+/data	ext4	/dev/block/platform/mtk-msdc.0/by-name/userdata
